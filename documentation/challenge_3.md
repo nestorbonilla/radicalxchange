@@ -8,4 +8,4 @@ The video aims to be concise, full of animation, and intended for an audience wi
 
 ## Link
 * [Script](https://docs.google.com/document/d/1BUfMRpEwTmoN6nRW8NxOwIEkPV27HxoTlXYSBxHeK7Q/edit?usp=sharing)
-* [Video]()
+* [Video](https://youtu.be/Q_BLMLF1yDA)
