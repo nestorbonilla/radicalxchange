@@ -9,4 +9,5 @@
 
 * [Challenge no. 1](https://github.com/nestorbonilla/radicalxchange/tree/master/documentation/challenge_1.md)
 * [Challenge no. 2](https://github.com/nestorbonilla/radicalxchange/tree/master/documentation/challenge_2.md)
+* [Challenge no. 3](https://github.com/nestorbonilla/radicalxchange/tree/master/documentation/challenge_3.md)
 * [Bonus for RadicalxChange (logo animation)](https://lottiefiles.com/24232-radicalxchange)
