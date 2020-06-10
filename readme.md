@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" width="30%" src="/documentation/resources/rxc-logo.svg">
+  <img align="center" width="50%" src="/documentation/resources/rxc-logo.svg">
 </p>
 
 > Project for the **GitxChange Hackathon**
@@ -9,4 +9,4 @@
 
 * [Challenge no. 1](https://github.com/nestorbonilla/radicalxchange/tree/master/documentation/challenge_1.md)
 * [Challenge no. 2](https://github.com/nestorbonilla/radicalxchange/tree/master/documentation/challenge_2.md)
-* [Bonus for RadicalxChange (logo animation)](https://lottiefiles.com/)
+* [Bonus for RadicalxChange (logo animation)](https://lottiefiles.com/24232-radicalxchange)
