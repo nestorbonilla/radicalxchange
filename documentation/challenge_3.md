@@ -2,7 +2,7 @@
 > Project for the **GitxChange Hackathon**
 > by **Nestor Bonilla**
 
-## Video Explanation Of Quadratic Finance And Voting
+## Video Explanation Of Salsa
 
 The video aims to be concise, full of animation, and intended for an audience without knowledge of this topic, explaining the traditional approaches, and viewing its shortcomings, to illustrate the concept of SALSA.
 
